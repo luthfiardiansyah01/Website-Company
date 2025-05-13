@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Menu, X, ChevronRight, GanttChartSquare, Users, BarChart3, HeartHandshake } from 'lucide-react';
-import startupIcon from '@/assets/startup.png'
+import startupIcon from '@/assets/startup.jpg'
 import NavLink from '../ui/NavLink';
 
 const Header = () => {

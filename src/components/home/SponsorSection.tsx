@@ -45,6 +45,12 @@ const SponsorSection = () => {
       name: 'Pemerintahan Provinsi Jawa Barat',
       logo: 'https://clipground.com/images/logo-jawa-barat-png-5.png?auto=compress&cs=tinysrgb&w=300',
       tier: 'Bronze'
+    },
+    {
+      id: 7,
+      name: 'Evolvix',
+      logo: 'https://evolvix.my.id/wp-content/uploads/sites/738/2025/03/Logo-evolvix-no-bg-2-1-e1742806969388-2048x739.png?auto=compress&cs=tinysrgb&w=300',
+      tier: 'Bronze'
     }
     
   ];

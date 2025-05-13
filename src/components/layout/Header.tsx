@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Menu, X, ChevronRight, GanttChartSquare, Users, BarChart3, HeartHandshake } from 'lucide-react';
-import startupIcon from '@/assets/startup-transparan.png'
+import startupIcon from '@/assets/startup-transparan-2.png'
 import NavLink from '../ui/NavLink';
 
 const Header = () => {
@@ -31,7 +31,7 @@ const Header = () => {
       <div className="container mx-auto px-4 md:px-6 py-4">
         <div className="flex items-center justify-between">
           <div className="flex items-center gap-2">
-            <img src="/startup-transparan.png" alt="Startup Icon" className="h-20 w-20 animate-pulse"/>
+            <img src="/startup-transparan-2.png" alt="Startup Icon" className="h-20 w-20 animate-pulse"/>
             <span className="text-2xl font-bold bg-gradient-to-r from-[#00f0ff] to-[#ff00c8] text-transparent bg-clip-text">
               MoedaTrace
             </span>

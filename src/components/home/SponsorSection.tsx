@@ -31,7 +31,7 @@ const SponsorSection = () => {
     {
       id: 5,
       name: 'Dinas Lingkungan Hidup dan Kebersihan',
-      logo: 'https://e-nusa.id/sidilan/public/assets/front/logo.png?auto=compress&cs=tinysrgb&w=200',
+      logo: 'https://pbs.twimg.com/profile_images/1483999308894867458/U7-Vxu8c_400x400.jpg?auto=compress&cs=tinysrgb&w=300',
       tier: 'Silver'
     },
     {

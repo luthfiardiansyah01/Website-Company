@@ -37,7 +37,7 @@ const DonationButton = () => {
             <div>
               <label className="text-white/90 text-sm block mb-2">Enter donation amount:</label>
               <div className="relative">
-                <span className="absolute left-3 top-1/2 -translate-y-1/2 text-white/70">Rp</span>
+                <span className="absolute left-2 top-1/2 -translate-y-1/2 text-white/70">Rp</span>
                 <input 
                   type="number" 
                   className="w-full px-6 py-3 rounded-lg bg-white/5 border border-white/10 focus:border-[#ff00c8]/50 focus:outline-none focus:ring-2 focus:ring-[#ff00c8]/30 text-white"

@@ -6,40 +6,47 @@ const SponsorSection = () => {
   const sponsors = [
     {
       id: 1,
-      name: 'TechVentures',
+      name: 'Orpiment Coffee',
       logo: 'https://images.pexels.com/photos/2092916/pexels-photo-2092916.jpeg?auto=compress&cs=tinysrgb&w=300',
       tier: 'Platinum'
     },
     {
       id: 2,
-      name: 'GlobalInnovate',
+      name: 'Afterwell Coffee and Eatery',
       logo: 'https://images.pexels.com/photos/2128028/pexels-photo-2128028.jpeg?auto=compress&cs=tinysrgb&w=300',
       tier: 'Gold'
     },
     {
       id: 3,
-      name: 'FutureFund',
-      logo: 'https://images.pexels.com/photos/2346595/pexels-photo-2346595.jpeg?auto=compress&cs=tinysrgb&w=300',
+      name: 'Telkom University',
+      logo: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2qsIm-TY-CbL48rzncMX_hiwJYhgYFDyzgrxM_iCn1enUenC0X5xsNJ-lEQ3ivRT_aIiM98XlZDxbxrGCfX13bllkAKvneU6rnVNlncQSdjg7fG082ghkO3jqWm7UnwrismbageOqQfj9jqW8OJOJ8Yqj1zqNSLVkTgF5UDHCTGeKW4kzGuaggQ/s1134/Telkom%20University%20Logo.png?auto=compress&cs=tinysrgb&w=300',
       tier: 'Gold'
     },
     {
       id: 4,
-      name: 'NextWave',
-      logo: 'https://images.pexels.com/photos/3778966/pexels-photo-3778966.jpeg?auto=compress&cs=tinysrgb&w=300',
+      name: 'Bank Mandiri',
+      logo: 'https://www.provalindonusa.com/static/logo-bank-mandiri-7c020a981eedf02c821944b284e4ce3d.png?auto=compress&cs=tinysrgb&w=300',
       tier: 'Silver'
     },
     {
       id: 5,
-      name: 'QuantumLeap',
-      logo: 'https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=300',
+      name: 'Dinas Lingkungan Hidup dan Kebersihan',
+      logo: 'https://e-nusa.id/sidilan/public/assets/front/logo.png?auto=compress&cs=tinysrgb&w=300',
       tier: 'Silver'
     },
     {
       id: 6,
-      name: 'EcoInvest',
-      logo: 'https://images.pexels.com/photos/7681731/pexels-photo-7681731.jpeg?auto=compress&cs=tinysrgb&w=300',
+      name: 'Pemerintahan Kota Bandung',
+      logo: 'https://2.bp.blogspot.com/-z0rE6HnMtgQ/Wg-abxMBAgI/AAAAAAAAFD0/uHCcB-EiI0kxrer74nEL4KszPn2zAMCRQCLcBGAs/s1600/Kota%2BBandung.png?auto=compress&cs=tinysrgb&w=300',
+      tier: 'Bronze'
+    },
+    {
+      id: 7,
+      name: 'Pemerintahan Provinsi Jawa Barat',
+      logo: 'https://clipground.com/images/logo-jawa-barat-png-5.png?auto=compress&cs=tinysrgb&w=300',
       tier: 'Bronze'
     }
+    
   ];
 
   return (

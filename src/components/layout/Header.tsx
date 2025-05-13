@@ -30,6 +30,7 @@ const Header = () => {
       <div className="container mx-auto px-4 md:px-6 py-4">
         <div className="flex items-center justify-between">
           <div className="flex items-center gap-2">
+            <img src="https://media-hosting.imagekit.io/ba98f068dc654cf3/Startup%20MoedaTrace.png?Expires=1841749016&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=0LWTtm0IRkxcKs6H09-fO0TAbfA5-7JALzeoqZx7D5XkBw1MtOgnRyeiyZ3fxqLlXbcVB~Ny~tWVn9fT2qm8jQvWV9xiEazleZYtI6Zar266Zj0XhnJECFSzhlkif5Gh7UdAVCXAeWsyelxemTFyrVX3PHfpARRX6V3X6R1kDmdhcA0H1bHW9mlNpH3GBoKTXDB1wPhrXOzeTcEafMoZkHMwcrVHnt2gQD8p1UiiBj2Su~6as5wv5bpuyD5dmWtUaED8dgM1rm6sU3K2WferiqiAFsSMyfMUO0AEiaqHKPiNAeHEyOUNn7wYa3~nFTGHPzsCtNHAAxPEhzVu8sAZOg__" alt="Flowers in Chania">
             <span className="text-2xl font-bold bg-gradient-to-r from-[#00f0ff] to-[#ff00c8] text-transparent bg-clip-text">
               MoedaTrace
             </span>

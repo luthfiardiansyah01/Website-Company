@@ -13,7 +13,7 @@ const SponsorSection = () => {
     {
       id: 2,
       name: 'Afterwell Coffee and Eatery',
-      logo: 'https://images.pexels.com/photos/2128028/pexels-photo-2128028.jpeg?auto=compress&cs=tinysrgb&w=300',
+      logo: 'https://instagram.fcgk18-2.fna.fbcdn.net/v/t51.2885-19/439893760_820362353321956_6347935939145170213_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=instagram.fcgk18-2.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2QH4-Lovl0-b0oY_V89bDMySVEJ0t7ne5dm_gZsHYpSsHWnvTD3S2RcaD1aReUITukY&_nc_ohc=1Endd0OhdKgQ7kNvwElTwV3&_nc_gid=YdHGDuh9WYqHINFlIkIWpg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfLRtFppoA2Xpfc8bKgLWjHjS0zZjAmHsDRCl7mmSE8DHg&oe=6828E66E&_nc_sid=10d13b.jpeg?auto=compress&cs=tinysrgb&w=300',
       tier: 'Gold'
     },
     {

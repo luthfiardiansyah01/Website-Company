@@ -25,7 +25,7 @@ const SponsorSection = () => {
     {
       id: 4,
       name: 'Bank Mandiri',
-      logo: 'https://www.provalindonusa.com/static/logo-bank-mandiri-7c020a981eedf02c821944b284e4ce3d.png?auto=compress&cs=tinysrgb&w=300',
+      logo: 'https://vectorseek.com/wp-content/uploads/2023/04/Bank-Mandiri-Logo-Vector-730x730.jpg?auto=compress&cs=tinysrgb&w=300',
       tier: 'Silver'
     },
     {

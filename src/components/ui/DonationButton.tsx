@@ -5,7 +5,7 @@ const DonationButton = () => {
   const [isHovered, setIsHovered] = useState(false);
   const [donationAmount, setDonationAmount] = useState<number | null>(null);
   
-  const amounts = [10K, 15K, 20K, 25K];
+  const amounts = [10000, 15000, 20000, 25000];
 
   return (
     <div>

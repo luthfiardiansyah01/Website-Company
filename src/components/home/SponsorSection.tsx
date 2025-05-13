@@ -7,7 +7,7 @@ const SponsorSection = () => {
     {
       id: 1,
       name: 'Orpiment Coffee',
-      logo: 'https://images.pexels.com/photos/2092916/pexels-photo-2092916.jpeg?auto=compress&cs=tinysrgb&w=300',
+      logo: 'https://cdn-icons-png.flaticon.com/128/2765/2765052.png?auto=compress&cs=tinysrgb&w=300',
       tier: 'Platinum'
     },
     {

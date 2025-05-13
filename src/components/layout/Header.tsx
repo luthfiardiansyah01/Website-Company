@@ -30,7 +30,6 @@ const Header = () => {
       <div className="container mx-auto px-4 md:px-6 py-4">
         <div className="flex items-center justify-between">
           <div className="flex items-center gap-2">
-            <GanttChartSquare className="h-8 w-8 text-[#00f0ff] animate-pulse" />
             <span className="text-2xl font-bold bg-gradient-to-r from-[#00f0ff] to-[#ff00c8] text-transparent bg-clip-text">
               MoedaTrace
             </span>

@@ -13,7 +13,7 @@ const SponsorSection = () => {
     {
       id: 2,
       name: 'Afterwell Coffee and Eatery',
-      logo: 'https://instagram.fcgk18-2.fna.fbcdn.net/v/t51.2885-19/439893760_820362353321956_6347935939145170213_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=instagram.fcgk18-2.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2QH4-Lovl0-b0oY_V89bDMySVEJ0t7ne5dm_gZsHYpSsHWnvTD3S2RcaD1aReUITukY&_nc_ohc=1Endd0OhdKgQ7kNvwElTwV3&_nc_gid=YdHGDuh9WYqHINFlIkIWpg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfLRtFppoA2Xpfc8bKgLWjHjS0zZjAmHsDRCl7mmSE8DHg&oe=6828E66E&_nc_sid=10d13b.jpeg?auto=compress&cs=tinysrgb&w=300',
+      logo: 'https://instagram.fcgk18-2.fna.fbcdn.net/v/t51.2885-19/439893760_820362353321956_6347935939145170213_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_ht=instagram.fcgk18-2.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2QE1y_96Y1yhbIv8_MBEUzbohYeRhW4k71kEhC8kCSS3WdrX7JujEDzhEXl2MpHiqgg&_nc_ohc=1Endd0OhdKgQ7kNvwElTwV3&_nc_gid=NY3l_sUB9sxWvIJG5-R0IQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfKchUg076VysW1VIW7cWC93yoPYk5YTAnAJ3m5Uq3GGcg&oe=6828E66E&_nc_sid=10d13b?auto=compress&cs=tinysrgb&w=300',
       tier: 'Gold'
     },
     {

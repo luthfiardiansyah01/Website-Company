@@ -31,7 +31,7 @@ const SponsorSection = () => {
     {
       id: 5,
       name: 'Dinas Lingkungan Hidup dan Kebersihan',
-      logo: 'https://pbs.twimg.com/profile_images/1483999308894867458/U7-Vxu8c_400x400.jpg?auto=compress&cs=tinysrgb&w=300',
+      logo: 'https://1.bp.blogspot.com/-MlqfkZp60ls/YA-J7AoCb4I/AAAAAAAAHUs/fHZRdg5LfI4qUkFp5OGEixjw_G-UowegACLcBGAsYHQ/w1200-h630-p-k-no-nu/lowongan-dlhk-kota-bandung.png?auto=compress&cs=tinysrgb&w=300',
       tier: 'Silver'
     },
     {

@@ -20,7 +20,7 @@ const DonationButton = () => {
                 onClick={() => setDonationAmount(amount)}
                 className="p-3 rounded-lg bg-white/5 border border-white/10 hover:bg-white/10 transition-all duration-300 focus:outline-none focus:ring-2 focus:ring-[#ff00c8]/50"
               >
-                <span className="font-medium">${amount}</span>
+                <span className="font-medium">Rp{amount}</span>
               </button>
             ))}
           </div>

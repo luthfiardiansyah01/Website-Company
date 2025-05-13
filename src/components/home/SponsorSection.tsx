@@ -13,7 +13,7 @@ const SponsorSection = () => {
     {
       id: 2,
       name: 'Afterwell Coffee and Eatery',
-      logo: '/home/project/dist/assets/images/afterwell-logo.png?auto=compress&cs=tinysrgb&w=300',
+      logo: '/home/project/dist/assets/images/afterwell-logo.png',
       tier: 'Gold'
     },
     {

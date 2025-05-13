@@ -13,7 +13,7 @@ const SponsorSection = () => {
     {
       id: 2,
       name: 'Afterwell Coffee and Eatery',
-      logo: '/home/project/dist/assets/afterwell-logo.png',
+      logo: 'https://ugc.production.linktr.ee/a565348b-698c-4636-b199-1f5518339e3a_LOGO-afterwell.png?io=true&size=avatar-v3_0.png?auto=compress&cs=tinysrgb&w=300',
       tier: 'Gold'
     },
     {

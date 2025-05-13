@@ -12,7 +12,7 @@ const Footer = () => {
             <div className="flex items-center gap-2 mb-6">
               <GanttChartSquare className="h-7 w-7 text-[#00f0ff]" />
               <span className="text-xl font-bold bg-gradient-to-r from-[#00f0ff] to-[#ff00c8] text-transparent bg-clip-text">
-                FutureFlow
+                MoedaTrace
               </span>
             </div>
             <p className="text-white/70 mb-6">
@@ -57,7 +57,7 @@ const Footer = () => {
         
         <div className="mt-12 pt-6 border-t border-white/10 flex flex-col md:flex-row justify-between items-center">
           <p className="text-white/50 text-sm">
-            © 2025 FutureFlow. All rights reserved.
+            © 2025 MoedaTrace. All rights reserved.
           </p>
           <div className="flex space-x-6 mt-4 md:mt-0">
             <span className="text-white/50 text-sm hover:text-white/80 transition-colors cursor-pointer">

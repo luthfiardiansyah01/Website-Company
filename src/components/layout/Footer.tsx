@@ -1,5 +1,6 @@
 import React from 'react';
 import { GanttChartSquare, Twitter, Linkedin, Github, Mail, ArrowRight } from 'lucide-react';
+import startupIcon from '@/assets/startup-transparan-2.png'
 
 const Footer = () => {
   return (
@@ -10,7 +11,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-10">
           <div>
             <div className="flex items-center gap-2 mb-6">
-              <GanttChartSquare className="h-7 w-7 text-[#00f0ff]" />
+              <img src="/startup-transparan-2.png" alt="Startup Icon" className="h-15 w-20 animate-pulse"/>
               <span className="text-xl font-bold bg-gradient-to-r from-[#00f0ff] to-[#ff00c8] text-transparent bg-clip-text">
                 MoedaTrace
               </span>

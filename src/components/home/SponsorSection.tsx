@@ -49,7 +49,7 @@ const SponsorSection = () => {
     {
       id: 7,
       name: 'Evolvix',
-      logo: 'https://evolvix.my.id/wp-content/uploads/sites/738/2025/03/Logo-evolvix-no-bg-2-1-e1742806969388-2048x739.png?auto=compress&cs=tinysrgb&w=300',
+      logo: 'https://evolvix.my.id/wp-content/uploads/sites/738/2025/03/Logo-evolvix-no-bg-2-1-e1742806969388-2048x739.png?auto=compress&cs=tinysrgb&w=100',
       tier: 'Bronze'
     }
     
